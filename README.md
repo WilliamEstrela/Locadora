@@ -25,22 +25,6 @@ Projeto desenvolvido como trabalho da 2ª Avaliação (2VA) da disciplina de **E
   - 5 Filmes cadastrados.
   - 7 Dias da semana.
 
-## 🎥 Lista de Filmes
-1. A Volta de Quem Não Foi  
-2. As Tranças da Vovó Careca  
-3. Poeira em Alto Mar  
-4. Os Reprovados em Estrutura de Dados  
-5. A Terra Plana  
-
-## 📅 Dias da Semana
-- 0 - Segunda  
-- 1 - Terça  
-- 2 - Quarta  
-- 3 - Quinta  
-- 4 - Sexta  
-- 5 - Sábado  
-- 6 - Domingo  
-
 ## 💻 Como Executar
 1. Clone o repositório:
 ```bash
@@ -60,5 +44,4 @@ g++ -o locadora main.cpp
 - Validação de entradas para evitar erros.
 - Interface gráfica simples para facilitar o uso.
 
-## 👨‍💻 Autor
-- William - [Seu GitHub](https://github.com/seu-usuario)
+
